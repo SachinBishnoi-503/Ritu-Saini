@@ -218,12 +218,102 @@
 }
 
 .footer-para {
-    font-family: "Roboto",sans-serif;
+    font-family: "Roboto", sans-serif;
     font-size: 16px;
     font-weight: 400;
     line-height: 24px;
     color: white;
 }
-.pt-104{
+
+.pt-104 {
     padding-top: 104px;
+}
+
+.mt-8 {
+    margin-top: 8px;
+}
+
+.one {
+    font-family: "Roboto", sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    max-width: 316px;
+}
+
+.with {
+    font-family: "Roboto", sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+}
+
+.two-para {
+    font-family: "Roboto", sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+}
+
+.img {
+    max-width: 106px;
+    min-height: 106px;
+}
+
+.max-width {
+    max-width: 316px;
+}
+
+.max-width-946 {
+    max-width: 946px !important;
+    min-height: 320px;
+    border-radius: 26px;
+    background-color: #D9EAE2;
+}
+
+.brew {
+    font-family: "Roboto", sans-serif;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 48px;
+    color: black;
+}
+
+.dontt {
+    font-family: "Roboto", sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    color: black;
+    opacity: 75%;
+}
+
+.pt-72 {
+    padding-top: 72px;
+}
+
+.pt-16 {
+    padding-top: 16px;
+}
+
+.p12-32 {
+    padding: 12px 32px;
+    border-radius: 100px;
+    background-color: green;
+    border: 2px solid green;
+}
+
+.shop {
+    font-family: "Roboto",sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    text-align: center;
+    color: white;
+}
+.mt-42{
+    margin-top: 42px;
+}
+.gap-32{
+    gap: 32px;
 }
